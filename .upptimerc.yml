@@ -27,7 +27,7 @@ status-website:
   logoUrl: https://app04.culturalgo.com/assetsCGO5/platform/logos/cgo.png
   name: Status CGO / ITBM
   introTitle: "**Status CGO** is the monitor of CulturalGo services"
-  introMessage: This is a **real-time** view of the services.
+  introMessage: This is a **real-time** view of the services. Monitor uptime every 5 minutes.
   navbar:
     - title: Status
       href: /
