@@ -76,18 +76,20 @@
     "url": "https://leadergo.org/",
     "icon": "https://favicons.githubusercontent.com/leadergo.org",
     "slug": "leadergo",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 3548,
     "timeDay": 3548,
     "timeWeek": 3548,
     "timeMonth": 3548,
     "timeYear": 3548,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-05": 0
+    }
   },
   {
     "name": "CGO Express!",
