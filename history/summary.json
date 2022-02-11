@@ -114,17 +114,19 @@
     "url": "https://back01.culturalgo.com:8443/api_empresa/demoPruebas",
     "icon": "https://favicons.githubusercontent.com/back01.culturalgo.com",
     "slug": "bd",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 943,
-    "timeDay": 943,
-    "timeWeek": 943,
-    "timeMonth": 943,
-    "timeYear": 943,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.73%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.73%",
+    "time": 913,
+    "timeDay": 913,
+    "timeWeek": 913,
+    "timeMonth": 913,
+    "timeYear": 913,
+    "dailyMinutesDown": {
+      "2022-02-11": 0
+    }
   }
 ]
