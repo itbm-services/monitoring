@@ -11,9 +11,9 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.96%",
     "time": 1300,
-    "timeDay": 1379,
-    "timeWeek": 1352,
-    "timeMonth": 1315,
+    "timeDay": 1326,
+    "timeWeek": 1349,
+    "timeMonth": 1324,
     "timeYear": 1300,
     "dailyMinutesDown": {
       "2022-03-11": 39
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.96%",
     "time": 890,
-    "timeDay": 928,
-    "timeWeek": 920,
-    "timeMonth": 891,
+    "timeDay": 908,
+    "timeWeek": 912,
+    "timeMonth": 897,
     "timeYear": 890,
     "dailyMinutesDown": {
       "2022-03-11": 39
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.96%",
-    "time": 883,
-    "timeDay": 941,
-    "timeWeek": 924,
-    "timeMonth": 903,
-    "timeYear": 883,
+    "time": 884,
+    "timeDay": 903,
+    "timeWeek": 916,
+    "timeMonth": 908,
+    "timeYear": 884,
     "dailyMinutesDown": {
       "2022-03-11": 38
     }
@@ -71,9 +71,9 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.96%",
     "time": 1893,
-    "timeDay": 1886,
-    "timeWeek": 1939,
-    "timeMonth": 1902,
+    "timeDay": 1906,
+    "timeWeek": 1919,
+    "timeMonth": 1910,
     "timeYear": 1893,
     "dailyMinutesDown": {
       "2022-03-11": 38
@@ -91,9 +91,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 6795,
-    "timeDay": 9870,
-    "timeWeek": 8564,
-    "timeMonth": 8775,
+    "timeDay": 6843,
+    "timeWeek": 8657,
+    "timeMonth": 8800,
     "timeYear": 6795,
     "dailyMinutesDown": {
       "2022-03-09": 15,
@@ -113,11 +113,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.96%",
-    "time": 881,
-    "timeDay": 925,
+    "time": 882,
+    "timeDay": 907,
     "timeWeek": 914,
-    "timeMonth": 891,
-    "timeYear": 881,
+    "timeMonth": 897,
+    "timeYear": 882,
     "dailyMinutesDown": {
       "2022-03-11": 37
     }
@@ -128,16 +128,16 @@
     "icon": "https://favicons.githubusercontent.com/back01.culturalgo.com",
     "slug": "bd",
     "status": "up",
-    "uptime": "74.22%",
+    "uptime": "74.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
-    "uptimeYear": "74.22%",
-    "time": 907,
+    "uptimeYear": "74.66%",
+    "time": 906,
     "timeDay": 888,
-    "timeWeek": 915,
-    "timeMonth": 899,
-    "timeYear": 907,
+    "timeWeek": 913,
+    "timeMonth": 905,
+    "timeYear": 906,
     "dailyMinutesDown": {
       "2022-03-11": 37,
       "2022-03-04": 25,
