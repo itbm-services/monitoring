@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1296,
-    "timeDay": 1345,
-    "timeWeek": 1273,
-    "timeMonth": 1295,
+    "timeDay": 1328,
+    "timeWeek": 1270,
+    "timeMonth": 1294,
     "timeYear": 1296,
     "dailyMinutesDown": {
       "2022-03-11": 39
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 887,
-    "timeDay": 914,
-    "timeWeek": 871,
-    "timeMonth": 884,
+    "timeDay": 950,
+    "timeWeek": 870,
+    "timeMonth": 886,
     "timeYear": 887,
     "dailyMinutesDown": {
       "2022-03-11": 39
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 886,
-    "timeDay": 948,
-    "timeWeek": 892,
-    "timeMonth": 896,
-    "timeYear": 886,
+    "time": 887,
+    "timeDay": 964,
+    "timeWeek": 896,
+    "timeMonth": 899,
+    "timeYear": 887,
     "dailyMinutesDown": {
       "2022-03-11": 38
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1856,
-    "timeDay": 1873,
-    "timeWeek": 1723,
-    "timeMonth": 1782,
-    "timeYear": 1856,
+    "time": 1857,
+    "timeDay": 1875,
+    "timeWeek": 1727,
+    "timeMonth": 1775,
+    "timeYear": 1857,
     "dailyMinutesDown": {
       "2022-03-11": 38
     }
@@ -90,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.82%",
-    "time": 7776,
-    "timeDay": 6386,
-    "timeWeek": 8489,
-    "timeMonth": 10251,
-    "timeYear": 7776,
+    "time": 7802,
+    "timeDay": 10791,
+    "timeWeek": 9275,
+    "timeMonth": 10311,
+    "timeYear": 7802,
     "dailyMinutesDown": {
       "2022-04-18": 56,
       "2022-04-17": 81,
@@ -115,11 +115,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 879,
-    "timeDay": 912,
-    "timeWeek": 860,
-    "timeMonth": 880,
-    "timeYear": 879,
+    "time": 880,
+    "timeDay": 979,
+    "timeWeek": 871,
+    "timeMonth": 882,
+    "timeYear": 880,
     "dailyMinutesDown": {
       "2022-03-11": 37
     }
@@ -130,14 +130,14 @@
     "icon": "https://favicons.githubusercontent.com/back01.culturalgo.com",
     "slug": "bd",
     "status": "up",
-    "uptime": "82.18%",
+    "uptime": "82.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "82.18%",
+    "uptimeYear": "82.39%",
     "time": 945,
-    "timeDay": 910,
-    "timeWeek": 1430,
+    "timeDay": 991,
+    "timeWeek": 1436,
     "timeMonth": 1022,
     "timeYear": 945,
     "dailyMinutesDown": {
