@@ -32,18 +32,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/culturalgo.com.ico",
     "slug": "cultural-go-backend",
     "status": "down",
-    "uptime": "2.08%",
-    "uptimeDay": "2.08%",
-    "uptimeWeek": "2.08%",
-    "uptimeMonth": "2.08%",
-    "uptimeYear": "2.08%",
+    "uptime": "2.82%",
+    "uptimeDay": "2.82%",
+    "uptimeWeek": "2.82%",
+    "uptimeMonth": "2.82%",
+    "uptimeYear": "2.82%",
     "time": 231,
     "timeDay": 231,
     "timeWeek": 231,
     "timeMonth": 231,
     "timeYear": 231,
     "dailyMinutesDown": {
-      "2023-03-29": 0
+      "2023-03-29": 1
     }
   },
   {
