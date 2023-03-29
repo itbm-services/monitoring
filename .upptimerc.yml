@@ -5,7 +5,7 @@ repo: monitoring # The name of this repository
 sites:
   - name: CulturalGo Platform
     url: https://culturalgo.com/plataform
-   - name: CulturalGo Backend
+  - name: CulturalGo Backend
     url: https://culturalgo.com/api/
   - name: Survey
     url: https://newsurvey.culturalgo.com/
