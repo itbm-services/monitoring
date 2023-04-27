@@ -1,7 +1,7 @@
 url: https://leadergo.org/
-status: up
-code: 200
-responseTime: 3058
-lastUpdated: 2023-04-26T23:16:08.278Z
+status: down
+code: 502
+responseTime: 709
+lastUpdated: 2023-04-27T15:38:41.714Z
 startTime: Fri Feb 04 2022 16:29:59 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
