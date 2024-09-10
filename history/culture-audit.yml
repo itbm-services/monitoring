@@ -1,7 +1,7 @@
 url: https://culture04.culturalgo.com:8443/
-status: up
-code: 200
-responseTime: 335
-lastUpdated: 2024-09-09T23:19:15.171Z
+status: down
+code: 502
+responseTime: 201
+lastUpdated: 2024-09-10T18:16:21.389Z
 startTime: 2022-02-04T16:29:55.000Z
 generator: Upptime <https://github.com/upptime/upptime>
