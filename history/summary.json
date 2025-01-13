@@ -10,11 +10,11 @@
     "uptimeWeek": "98.78%",
     "uptimeMonth": "98.44%",
     "uptimeYear": "99.43%",
-    "time": 1032,
-    "timeDay": 1047,
-    "timeWeek": 925,
+    "time": 1031,
+    "timeDay": 1077,
+    "timeWeek": 916,
     "timeMonth": 936,
-    "timeYear": 971,
+    "timeYear": 970,
     "dailyMinutesDown": {
       "2025-01-12": 123,
       "2024-12-25": 483,
@@ -48,10 +48,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.34%",
     "time": 880,
-    "timeDay": 805,
+    "timeDay": 922,
     "timeWeek": 836,
     "timeMonth": 867,
-    "timeYear": 871,
+    "timeYear": 872,
     "dailyMinutesDown": {
       "2024-11-28": 33,
       "2024-10-21": 215,
@@ -74,9 +74,9 @@
     "uptimeMonth": "98.51%",
     "uptimeYear": "98.44%",
     "time": 713,
-    "timeDay": 973,
+    "timeDay": 1003,
     "timeWeek": 680,
-    "timeMonth": 663,
+    "timeMonth": 664,
     "timeYear": 687,
     "dailyMinutesDown": {
       "2025-01-12": 123,
@@ -107,8 +107,7 @@
       "2024-08-24": 109,
       "2024-08-23": 242,
       "2024-07-19": 30,
-      "2024-03-11": 113,
-      "2024-01-14": 1167
+      "2024-03-11": 113
     }
   },
   {
@@ -122,11 +121,11 @@
     "uptimeWeek": "98.62%",
     "uptimeMonth": "98.37%",
     "uptimeYear": "84.53%",
-    "time": 3434,
-    "timeDay": 3999,
-    "timeWeek": 4834,
-    "timeMonth": 4108,
-    "timeYear": 3736,
+    "time": 3441,
+    "timeDay": 3887,
+    "timeWeek": 5004,
+    "timeMonth": 4156,
+    "timeYear": 3743,
     "dailyMinutesDown": {
       "2025-01-12": 123,
       "2025-01-08": 16,
@@ -226,10 +225,10 @@
     "uptimeMonth": "99.09%",
     "uptimeYear": "90.69%",
     "time": 7361,
-    "timeDay": 5068,
-    "timeWeek": 4383,
-    "timeMonth": 4993,
-    "timeYear": 7306,
+    "timeDay": 5656,
+    "timeWeek": 4430,
+    "timeMonth": 5004,
+    "timeYear": 7300,
     "dailyMinutesDown": {
       "2025-01-10": 382,
       "2025-01-07": 16,
@@ -291,7 +290,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cgoxgptw.culturalgo.com.ico",
     "slug": "cgo-express",
     "status": "down",
-    "uptime": "42.75%",
+    "uptime": "42.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -302,7 +301,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-12": 1219,
+      "2025-01-13": 40,
+      "2025-01-12": 1440,
       "2025-01-11": 1440,
       "2025-01-10": 1440,
       "2025-01-09": 1440,
@@ -665,8 +665,7 @@
       "2024-01-18": 1440,
       "2024-01-17": 1440,
       "2024-01-16": 1440,
-      "2024-01-15": 1440,
-      "2024-01-14": 1440
+      "2024-01-15": 1440
     }
   }
 ]
