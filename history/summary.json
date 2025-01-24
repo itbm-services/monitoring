@@ -68,7 +68,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/culture04.culturalgo.com.ico",
     "slug": "culture-audit",
     "status": "up",
-    "uptime": "86.91%",
+    "uptime": "86.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.66%",
@@ -217,19 +217,19 @@
     "url": "https://leadergo.org/",
     "icon": "https://icons.duckduckgo.com/ip3/leadergo.org.ico",
     "slug": "leadergo",
-    "status": "up",
+    "status": "down",
     "uptime": "96.48%",
-    "uptimeDay": "32.49%",
-    "uptimeWeek": "56.30%",
+    "uptimeDay": "32.44%",
+    "uptimeWeek": "56.29%",
     "uptimeMonth": "85.10%",
-    "uptimeYear": "89.53%",
-    "time": 10423,
+    "uptimeYear": "89.54%",
+    "time": 10434,
     "timeDay": 27311,
     "timeWeek": 26794,
     "timeMonth": 21981,
     "timeYear": 11611,
     "dailyMinutesDown": {
-      "2025-01-24": 258,
+      "2025-01-24": 259,
       "2025-01-23": 866,
       "2025-01-22": 1023,
       "2025-01-21": 606,
@@ -289,8 +289,7 @@
       "2024-05-16": 1440,
       "2024-05-15": 41,
       "2024-05-08": 30,
-      "2024-05-07": 4,
-      "2024-04-23": 69
+      "2024-05-07": 4
     }
   },
   {
@@ -310,7 +309,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-24": 300,
+      "2025-01-24": 318,
       "2025-01-23": 1440,
       "2025-01-22": 1440,
       "2025-01-21": 1440,
