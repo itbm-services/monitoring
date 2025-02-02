@@ -219,18 +219,19 @@
     "url": "https://leadergo.org/",
     "icon": "https://icons.duckduckgo.com/ip3/leadergo.org.ico",
     "slug": "leadergo",
-    "status": "up",
-    "uptime": "97.25%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "97.26%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "84.01%",
-    "uptimeYear": "91.77%",
-    "time": 11207,
+    "uptimeYear": "91.79%",
+    "time": 11213,
     "timeDay": 23123,
     "timeWeek": 15589,
     "timeMonth": 22899,
     "timeYear": 12219,
     "dailyMinutesDown": {
+      "2025-02-02": 1,
       "2025-01-24": 736,
       "2025-01-23": 866,
       "2025-01-22": 1023,
@@ -273,7 +274,7 @@
       "2024-09-27": 636,
       "2024-09-19": 967,
       "2024-09-18": 255,
-      "2024-09-16": 100
+      "2024-09-16": 31
     }
   },
   {
@@ -282,7 +283,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cgoxgptw.culturalgo.com.ico",
     "slug": "cgo-express",
     "status": "down",
-    "uptime": "41.96%",
+    "uptime": "41.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -293,7 +294,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-02": 39,
+      "2025-02-02": 144,
       "2025-02-01": 1440,
       "2025-01-31": 1440,
       "2025-01-30": 1440,
