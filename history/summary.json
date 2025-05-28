@@ -13,7 +13,7 @@
     "time": 999,
     "timeDay": 807,
     "timeWeek": 845,
-    "timeMonth": 812,
+    "timeMonth": 809,
     "timeYear": 957,
     "dailyMinutesDown": {
       "2025-05-15": 42,
@@ -61,7 +61,7 @@
     "time": 757,
     "timeDay": 216,
     "timeWeek": 252,
-    "timeMonth": 220,
+    "timeMonth": 213,
     "timeYear": 719,
     "dailyMinutesDown": {
       "2025-03-01": 23,
@@ -141,17 +141,16 @@
     "slug": "succes-go",
     "status": "up",
     "uptime": "94.96%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "96.86%",
-    "uptimeYear": "84.10%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "96.88%",
+    "uptimeYear": "84.11%",
     "time": 3847,
     "timeDay": 2346,
     "timeWeek": 3063,
-    "timeMonth": 5167,
+    "timeMonth": 5200,
     "timeYear": 4412,
     "dailyMinutesDown": {
-      "2025-05-27": 9,
       "2025-05-15": 41,
       "2025-05-13": 655,
       "2025-05-10": 298,
@@ -258,7 +257,7 @@
     "uptime": "89.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "41.58%",
+    "uptimeMonth": "41.77%",
     "uptimeYear": "66.43%",
     "time": 12413,
     "timeDay": 1214,
@@ -409,7 +408,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cgoxgptw.culturalgo.com.ico",
     "slug": "cgo-express",
     "status": "down",
-    "uptime": "37.97%",
+    "uptime": "37.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -420,7 +419,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-27": 1401,
+      "2025-05-28": 43,
+      "2025-05-27": 1440,
       "2025-05-26": 1440,
       "2025-05-25": 1440,
       "2025-05-24": 1440,
@@ -783,8 +783,7 @@
       "2024-06-01": 1440,
       "2024-05-31": 1440,
       "2024-05-30": 1440,
-      "2024-05-29": 1440,
-      "2024-05-28": 1440
+      "2024-05-29": 1440
     }
   }
 ]
