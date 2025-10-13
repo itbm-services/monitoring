@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.58%",
     "uptimeYear": "98.71%",
-    "time": 1245,
-    "timeDay": 493,
-    "timeWeek": 666,
-    "timeMonth": 590,
-    "timeYear": 1365,
+    "time": 1244,
+    "timeDay": 691,
+    "timeWeek": 621,
+    "timeMonth": 592,
+    "timeYear": 1366,
     "dailyMinutesDown": {
       "2025-09-25": 161,
       "2025-09-24": 24,
@@ -67,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.52%",
-    "time": 576,
-    "timeDay": 168,
-    "timeWeek": 243,
-    "timeMonth": 209,
-    "timeYear": 488,
+    "time": 575,
+    "timeDay": 305,
+    "timeWeek": 246,
+    "timeMonth": 212,
+    "timeYear": 486,
     "dailyMinutesDown": {
       "2025-07-30": 32,
       "2025-07-02": 230,
@@ -88,16 +88,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/culture04.culturalgo.com.ico",
     "slug": "culture-audit",
     "status": "up",
-    "uptime": "89.08%",
+    "uptime": "89.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.06%",
-    "uptimeYear": "98.09%",
-    "time": 591,
-    "timeDay": 272,
-    "timeWeek": 345,
+    "uptimeYear": "98.17%",
+    "time": 590,
+    "timeDay": 403,
+    "timeWeek": 337,
     "timeMonth": 336,
-    "timeYear": 567,
+    "timeYear": 568,
     "dailyMinutesDown": {
       "2025-09-25": 386,
       "2025-09-24": 24,
@@ -137,8 +137,7 @@
       "2024-11-30": 50,
       "2024-11-29": 483,
       "2024-11-10": 112,
-      "2024-10-19": 98,
-      "2024-10-13": 151
+      "2024-10-19": 98
     }
   },
   {
@@ -151,12 +150,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.48%",
-    "uptimeYear": "97.54%",
-    "time": 4318,
-    "timeDay": 3336,
-    "timeWeek": 3574,
-    "timeMonth": 3271,
-    "timeYear": 4038,
+    "uptimeYear": "97.79%",
+    "time": 4321,
+    "timeDay": 3412,
+    "timeWeek": 3552,
+    "timeMonth": 3268,
+    "timeYear": 4036,
     "dailyMinutesDown": {
       "2025-09-25": 203,
       "2025-09-24": 24,
@@ -209,8 +208,7 @@
       "2024-10-29": 45,
       "2024-10-18": 29,
       "2024-10-15": 49,
-      "2024-10-14": 1092,
-      "2024-10-13": 1440
+      "2024-10-14": 1092
     }
   },
   {
@@ -224,11 +222,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.58%",
     "uptimeYear": "73.09%",
-    "time": 10188,
-    "timeDay": 3514,
-    "timeWeek": 1466,
-    "timeMonth": 1294,
-    "timeYear": 10953,
+    "time": 10179,
+    "timeDay": 1214,
+    "timeWeek": 1485,
+    "timeMonth": 1307,
+    "timeYear": 10944,
     "dailyMinutesDown": {
       "2025-09-25": 161,
       "2025-09-24": 24,
@@ -352,7 +350,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cgoxgptw.culturalgo.com.ico",
     "slug": "cgo-express",
     "status": "down",
-    "uptime": "34.10%",
+    "uptime": "34.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -363,7 +361,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-12": 42,
+      "2025-10-13": 44,
+      "2025-10-12": 1440,
       "2025-10-11": 1440,
       "2025-10-10": 1440,
       "2025-10-09": 1440,
@@ -726,8 +725,7 @@
       "2024-10-17": 1440,
       "2024-10-16": 1440,
       "2024-10-15": 1440,
-      "2024-10-14": 1440,
-      "2024-10-13": 1440
+      "2024-10-14": 1440
     }
   }
 ]
