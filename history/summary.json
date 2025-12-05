@@ -10,11 +10,11 @@
     "uptimeWeek": "99.52%",
     "uptimeMonth": "98.48%",
     "uptimeYear": "98.54%",
-    "time": 1191,
-    "timeDay": 570,
-    "timeWeek": 544,
-    "timeMonth": 565,
-    "timeYear": 1320,
+    "time": 1190,
+    "timeDay": 600,
+    "timeWeek": 568,
+    "timeMonth": 570,
+    "timeYear": 1322,
     "dailyMinutesDown": {
       "2025-12-04": 21,
       "2025-12-01": 27,
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
-    "time": 507,
-    "timeDay": 292,
-    "timeWeek": 204,
+    "time": 506,
+    "timeDay": 329,
+    "timeWeek": 238,
     "timeMonth": 217,
-    "timeYear": 392,
+    "timeYear": 391,
     "dailyMinutesDown": {
       "2025-07-30": 32,
       "2025-07-02": 230,
@@ -94,8 +94,8 @@
     "uptimeMonth": "98.48%",
     "uptimeYear": "98.01%",
     "time": 575,
-    "timeDay": 323,
-    "timeWeek": 325,
+    "timeDay": 356,
+    "timeWeek": 339,
     "timeMonth": 610,
     "timeYear": 551,
     "dailyMinutesDown": {
@@ -155,10 +155,10 @@
     "uptimeWeek": "99.52%",
     "uptimeMonth": "93.78%",
     "uptimeYear": "97.61%",
-    "time": 4452,
-    "timeDay": 2932,
-    "timeWeek": 2706,
-    "timeMonth": 3829,
+    "time": 4453,
+    "timeDay": 2781,
+    "timeWeek": 2852,
+    "timeMonth": 3823,
     "timeYear": 4071,
     "dailyMinutesDown": {
       "2025-12-04": 21,
@@ -212,8 +212,7 @@
       "2024-12-25": 465,
       "2024-12-21": 72,
       "2024-12-10": 19,
-      "2024-12-09": 763,
-      "2024-12-05": 21
+      "2024-12-09": 763
     }
   },
   {
@@ -227,11 +226,11 @@
     "uptimeWeek": "99.52%",
     "uptimeMonth": "98.48%",
     "uptimeYear": "72.87%",
-    "time": 9071,
-    "timeDay": 5984,
-    "timeWeek": 3926,
-    "timeMonth": 2140,
-    "timeYear": 9880,
+    "time": 9406,
+    "timeDay": 5770,
+    "timeWeek": 3994,
+    "timeMonth": 2217,
+    "timeYear": 9881,
     "dailyMinutesDown": {
       "2025-12-04": 22,
       "2025-12-01": 27,
@@ -362,7 +361,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cgoxgptw.culturalgo.com.ico",
     "slug": "cgo-express",
     "status": "down",
-    "uptime": "32.79%",
+    "uptime": "32.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -373,7 +372,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-04": 918,
+      "2025-12-05": 45,
+      "2025-12-04": 1440,
       "2025-12-03": 1440,
       "2025-12-02": 1440,
       "2025-12-01": 1440,
@@ -736,8 +736,7 @@
       "2024-12-09": 1440,
       "2024-12-08": 1440,
       "2024-12-07": 1440,
-      "2024-12-06": 1440,
-      "2024-12-05": 1440
+      "2024-12-06": 1440
     }
   }
 ]
