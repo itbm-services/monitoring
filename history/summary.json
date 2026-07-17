@@ -11,12 +11,11 @@
     "uptimeMonth": "99.05%",
     "uptimeYear": "99.39%",
     "time": 1110,
-    "timeDay": 807,
-    "timeWeek": 796,
-    "timeMonth": 767,
+    "timeDay": 948,
+    "timeWeek": 800,
+    "timeMonth": 773,
     "timeYear": 1198,
     "dailyMinutesDown": {
-      "2025-07-17": 42,
       "2025-07-18": 21,
       "2025-07-19": 86,
       "2025-07-21": 41,
@@ -52,9 +51,9 @@
     "uptimeMonth": "99.38%",
     "uptimeYear": "99.91%",
     "time": 230,
-    "timeDay": 304,
-    "timeWeek": 203,
-    "timeMonth": 195,
+    "timeDay": 250,
+    "timeWeek": 205,
+    "timeMonth": 197,
     "timeYear": 221,
     "dailyMinutesDown": {
       "2025-07-30": 32,
@@ -75,9 +74,9 @@
     "uptimeMonth": "99.06%",
     "uptimeYear": "99.10%",
     "time": 466,
-    "timeDay": 410,
-    "timeWeek": 335,
-    "timeMonth": 313,
+    "timeDay": 356,
+    "timeWeek": 326,
+    "timeMonth": 314,
     "timeYear": 466,
     "dailyMinutesDown": {
       "2025-07-18": 21,
@@ -116,11 +115,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.80%",
-    "time": 4042,
-    "timeDay": 3433,
-    "timeWeek": 2682,
-    "timeMonth": 3219,
-    "timeYear": 3910,
+    "time": 4039,
+    "timeDay": 2861,
+    "timeWeek": 2857,
+    "timeMonth": 3208,
+    "timeYear": 3908,
     "dailyMinutesDown": {
       "2025-07-19": 19,
       "2025-07-21": 40,
@@ -162,17 +161,17 @@
     "url": "https://leadergo.org/",
     "icon": "https://icons.duckduckgo.com/ip3/leadergo.org.ico",
     "slug": "leadergo",
-    "status": "down",
+    "status": "up",
     "uptime": "93.89%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.37%",
-    "uptimeYear": "99.57%",
-    "time": 1855,
-    "timeDay": 1280,
-    "timeWeek": 1073,
-    "timeMonth": 1119,
-    "timeYear": 1459,
+    "uptimeDay": "92.00%",
+    "uptimeWeek": "98.86%",
+    "uptimeMonth": "99.11%",
+    "uptimeYear": "99.55%",
+    "time": 1852,
+    "timeDay": 650,
+    "timeWeek": 997,
+    "timeMonth": 1104,
+    "timeYear": 1458,
     "dailyMinutesDown": {
       "2025-07-21": 40,
       "2025-08-01": 29,
@@ -190,7 +189,8 @@
       "2025-12-04": 22,
       "2026-01-08": 18,
       "2026-06-25": 273,
-      "2026-07-16": 5
+      "2026-07-17": 11,
+      "2026-07-16": 104
     }
   },
   {
@@ -210,7 +210,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-16": 1341,
+      "2026-07-17": 16,
+      "2026-07-16": 1440,
       "2026-07-15": 1440,
       "2026-07-14": 1440,
       "2026-07-13": 1440,
@@ -573,8 +574,7 @@
       "2025-07-21": 1440,
       "2025-07-20": 1440,
       "2025-07-19": 1440,
-      "2025-07-18": 1440,
-      "2025-07-17": 1440
+      "2025-07-18": 1440
     }
   }
 ]
