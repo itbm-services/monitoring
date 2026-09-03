@@ -143,17 +143,17 @@
     "url": "https://leadergo.org/",
     "icon": "https://icons.duckduckgo.com/ip3/leadergo.org.ico",
     "slug": "leadergo",
-    "status": "down",
-    "uptime": "94.07%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.57%",
-    "time": 1395,
-    "timeDay": 1284,
-    "timeWeek": 967,
-    "timeMonth": 1043,
-    "timeYear": 1362,
+    "status": "up",
+    "uptime": "94.06%",
+    "uptimeDay": "90.26%",
+    "uptimeWeek": "98.61%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.54%",
+    "time": 1412,
+    "timeDay": 1149,
+    "timeWeek": 957,
+    "timeMonth": 1038,
+    "timeYear": 1361,
     "dailyMinutesDown": {
       "2025-09-09": 75,
       "2025-09-25": 161,
@@ -170,7 +170,7 @@
       "2026-06-25": 273,
       "2026-07-17": 11,
       "2026-07-16": 104,
-      "2026-09-03": 5
+      "2026-09-03": 140
     }
   },
   {
@@ -190,7 +190,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-03": 1173,
+      "2026-09-03": 1313,
       "2026-09-02": 1440,
       "2026-09-01": 1440,
       "2026-08-31": 1440,
