@@ -13,7 +13,7 @@
     "time": 915,
     "timeDay": 453,
     "timeWeek": 693,
-    "timeMonth": 746,
+    "timeMonth": 754,
     "timeYear": 654,
     "dailyMinutesDown": {
       "2025-10-23": 701,
@@ -46,7 +46,7 @@
     "time": 225,
     "timeDay": 70,
     "timeWeek": 178,
-    "timeMonth": 195,
+    "timeMonth": 197,
     "timeYear": 213,
     "dailyMinutesDown": {
       "2026-02-26": 57,
@@ -70,7 +70,7 @@
     "time": 440,
     "timeDay": 173,
     "timeWeek": 297,
-    "timeMonth": 322,
+    "timeMonth": 325,
     "timeYear": 358,
     "dailyMinutesDown": {
       "2025-10-23": 712,
@@ -102,7 +102,7 @@
     "time": 3646,
     "timeDay": 1320,
     "timeWeek": 1692,
-    "timeMonth": 1841,
+    "timeMonth": 1842,
     "timeYear": 3627,
     "dailyMinutesDown": {
       "2025-10-23": 712,
@@ -132,16 +132,16 @@
     "url": "https://leadergo.org/",
     "icon": "https://icons.duckduckgo.com/ip3/leadergo.org.ico",
     "slug": "leadergo",
-    "status": "up",
-    "uptime": "94.14%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.68%",
+    "status": "down",
+    "uptime": "94.15%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.67%",
     "uptimeYear": "99.59%",
-    "time": 1403,
+    "time": 1394,
     "timeDay": 1045,
     "timeWeek": 1291,
-    "timeMonth": 1136,
+    "timeMonth": 1151,
     "timeYear": 1366,
     "dailyMinutesDown": {
       "2025-10-23": 700,
@@ -156,7 +156,8 @@
       "2026-06-25": 273,
       "2026-07-17": 11,
       "2026-07-16": 104,
-      "2026-09-03": 140
+      "2026-09-03": 140,
+      "2026-09-27": 5
     }
   },
   {
@@ -165,7 +166,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cgoxgptw.culturalgo.com.ico",
     "slug": "cgo-express",
     "status": "down",
-    "uptime": "27.06%",
+    "uptime": "27.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -176,7 +177,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-27": 124,
+      "2026-09-27": 1208,
       "2026-09-26": 1440,
       "2026-09-25": 1440,
       "2026-09-24": 1440,
