@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.60%",
-    "time": 915,
-    "timeDay": 453,
-    "timeWeek": 693,
-    "timeMonth": 754,
+    "time": 885,
+    "timeDay": 788,
+    "timeWeek": 686,
+    "timeMonth": 755,
     "timeYear": 654,
     "dailyMinutesDown": {
       "2025-10-23": 701,
@@ -43,10 +43,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 225,
-    "timeDay": 70,
-    "timeWeek": 178,
-    "timeMonth": 197,
+    "time": 226,
+    "timeDay": 248,
+    "timeWeek": 175,
+    "timeMonth": 198,
     "timeYear": 213,
     "dailyMinutesDown": {
       "2026-02-26": 57,
@@ -68,9 +68,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.59%",
     "time": 440,
-    "timeDay": 173,
-    "timeWeek": 297,
-    "timeMonth": 325,
+    "timeDay": 361,
+    "timeWeek": 301,
+    "timeMonth": 326,
     "timeYear": 358,
     "dailyMinutesDown": {
       "2025-10-23": 712,
@@ -99,11 +99,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.14%",
-    "time": 3646,
-    "timeDay": 1320,
-    "timeWeek": 1692,
-    "timeMonth": 1842,
-    "timeYear": 3627,
+    "time": 3640,
+    "timeDay": 1569,
+    "timeWeek": 1706,
+    "timeMonth": 1833,
+    "timeYear": 3623,
     "dailyMinutesDown": {
       "2025-10-23": 712,
       "2025-10-28": 17,
@@ -133,14 +133,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/leadergo.org.ico",
     "slug": "leadergo",
     "status": "down",
-    "uptime": "94.15%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "99.59%",
-    "time": 1394,
-    "timeDay": 1045,
-    "timeWeek": 1291,
+    "uptime": "94.14%",
+    "uptimeDay": "74.58%",
+    "uptimeWeek": "96.37%",
+    "uptimeMonth": "98.84%",
+    "uptimeYear": "99.52%",
+    "time": 1395,
+    "timeDay": 0,
+    "timeWeek": 1318,
     "timeMonth": 1151,
     "timeYear": 1366,
     "dailyMinutesDown": {
@@ -157,7 +157,8 @@
       "2026-07-17": 11,
       "2026-07-16": 104,
       "2026-09-03": 140,
-      "2026-09-27": 5
+      "2026-09-28": 129,
+      "2026-09-27": 237
     }
   },
   {
@@ -166,7 +167,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cgoxgptw.culturalgo.com.ico",
     "slug": "cgo-express",
     "status": "down",
-    "uptime": "27.05%",
+    "uptime": "27.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -177,7 +178,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-27": 1208,
+      "2026-09-28": 129,
+      "2026-09-27": 1440,
       "2026-09-26": 1440,
       "2026-09-25": 1440,
       "2026-09-24": 1440,
@@ -540,8 +542,7 @@
       "2025-10-02": 1440,
       "2025-10-01": 1440,
       "2025-09-30": 1440,
-      "2025-09-29": 1440,
-      "2025-09-28": 1440
+      "2025-09-29": 1440
     }
   }
 ]
