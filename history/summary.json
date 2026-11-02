@@ -90,11 +90,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/success.culturalgo.com.ico",
     "slug": "succes-go",
     "status": "down",
-    "uptime": "99.07%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "98.49%",
+    "uptime": "99.06%",
+    "uptimeDay": "96.83%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "98.48%",
     "time": 3528,
     "timeDay": 364,
     "timeWeek": 1532,
@@ -116,7 +116,7 @@
       "2026-04-27": 1440,
       "2026-04-26": 1440,
       "2026-04-25": 1195,
-      "2026-11-02": 5
+      "2026-11-02": 46
     }
   },
   {
@@ -168,7 +168,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-02": 135,
+      "2026-11-02": 176,
       "2026-11-01": 1440,
       "2026-10-31": 1440,
       "2026-10-30": 1440,
